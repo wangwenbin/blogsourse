@@ -1,0 +1,3 @@
+[submodule "themes/kael"]
+	path = themes/kael
+	url = git@github.com:yuche/hexo-theme-kael.git
